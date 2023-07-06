@@ -1,0 +1,38 @@
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe.config
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\bin\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.Properties.Resources.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.GenerateResource.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\Reporte_de_solución.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas\DetectorDeFallas\obj\Debug\Inicio_de_sesión.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe.config
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\bin\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\Reporte_de_solución.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\Inicio_de_sesión.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.Properties.Resources.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.GenerateResource.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 2\DetectorDeFallas\obj\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe.config
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\bin\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\bin\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\Reporte_de_solución.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\Inicio_de_sesión.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.Properties.Resources.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.GenerateResource.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\Interop.Office.dll
+C:\Users\alex_\OneDrive\Escritorio\proyecto emerson\DetectorDeFallas 4\DetectorDeFallas\obj\Debug\DetectorDeFallas.csproj.ResolveComReference.cache
