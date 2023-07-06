@@ -17,11 +17,11 @@ namespace Reporte_de_solución
         {
             InitializeComponent();
         }
-        const string usuario = "alex.rosales@uttn.mx";
-        const string password = "Alexzael00";
-        string txtDe = "alex.rosales@uttn.mx";
+        const string usuario = "alex.rosales@outlook.com";
+        const string password = "*********";
+        string txtDe = "alex.rosales@outlook.com";
         string txtAsunto = "Tester reparada en celda 16";
-        string txtPara = "alexrosales2k@outlook.com, alex.rosales@uttn.mx";
+        string txtPara = "alexrosales2k@outlook.com, alex.rosales@outlook.com";
 
         private static void EnviarCorreo(StringBuilder Mensaje, DateTime FechaDeEnvio, string De, string Para, string Asunto, out string Error)
         {
