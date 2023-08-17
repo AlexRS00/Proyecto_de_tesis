@@ -1,2 +1,0 @@
-# Fault detector
-prueba
